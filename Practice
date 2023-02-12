@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>ABMH CONSTUCTIONS |HOME</title>
+    <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <header>
+        <h1>ABMH CONSTRUCTION PRIVATE LIMITED</h1>
+    </header>
+    <nav>
+        <a href="#">INFO</a>
+        <a href="#">PROJECTS</a>
+        <a href="#">TEAM</a>
+        <a href="#">JOURNEY</a>
+        <a href="#">GALLERY</a>
+        <a href="#">CONTACT</a>
+    </nav>
+    <main>
+        <section>
+            <h2>SIGNATURED PROJECTS</h2>
+            <img src="image/img 6.jpg" width="33%" />
+            <img src="image/img 7.jpeg" width="33%" />
+            <img src="image/img 8.jpg" width="33%" />
+            <img src="image/img 9.webp" width="33%" />
+        </section>
+        <section>
+            <h3>WHY CHOOSE US?</h3>
+            <p>ABMH has diversified experience of multi storey building, infrastructure, interior designing, value engineering and project management.Years of experience we have been building life time relationships with our clients through our services under supervisions of professionals.</p>
+            <div class="sidebar">
+                <a class="active" href="#home">Our Vision</a>
+                <a href="#news">CEO Message</a>
+                <a href="#contact">Contact</a>
+                <a href="#about">About</a>
+            </div>
+            <div class="content">
+                ..
+            </div>
+            <h3>Combined Works</h3>
+            <a href="" width="33%"> <img src="image/img 8.jpg" width="33%" /></a>
+        </section>
+        <section>
+            <h2>CEO Message</h2>
+            <div class="img-with-text">
+                <img src="image/img 10.jpg" width="180" align="right" alt="sometext" />
+                <p>
+                    ABDUL SATTAR<br />
+                    Chief Executive Officer<br />
+                    ABMH Construction Company
+
+                </p>
+            </div>
+            <strong>
+                We at ABMH consider ourselves not just mere contractors; but partners of our valuable clients offering:
+                Highest Standard of Quality Construction
+                Value Added Construction Services & Facilities
+                Procurement and Installation of resources for civil, mechanical and steel fabricated structures & finishing.
+                Each project is of the highest importance to us just as it is to our treasured client.
+                Our clients are familiar with our transparent and partner like approach towards each project; free of costly delays, free of risk of conflict and guaranteed cost saving innovative construction methodologies approved and vetted by external Engineers and Consultants.
+
+                At the heart of all our operations are our indispensable team members and work force, both on and off the field, who have the spirit to push boundaries every step of the way and foster a culture to accept challenges and embrace innovative thinking.
+
+                We have embedded our Core Values and strategies to emphasize on QHSE in our DNA to deliver superior quality construction in the safest of manners; recognized and appreciated by our clients and workforce alike.
+
+                We champion diverse talents, skills and backgrounds at ABMH. Working together, we make a positive difference and continue to make sure that every project is the envy of the Country. I pay tribute to all our workforce, who we consider as an integral part of ABMH'S family, for not only being a part of, but also determined and striving to work towards ABMH'S vision.
+            </strong>
+            <h2>COO Message</h2>
+            <div class="img-with-text">
+                <img src="image/img 11.png" width="180" align="right" alt="sometext" />
+                <p>
+                    GHULAM MURTAZA<br />
+                    Chief Operating Officer<br />
+                    ABMH Construction Company
+
+                </p>
+            </div>
+            <strong>
+                In this era of rapid technological advancements and fast paced life, we at ABMH as a business unit mold with the constant and persistent changes required to keep up with the pace of requirements of our invaluable clients.
+                Every proposed project poses novel, unique and intriguing technical and engineering challenges; and it is for overcoming these very challenges in the most cost effective and safest manner that ABMH is renowned for.
+
+                By incentivizing and promoting ‘thinking out of the box’ policy to overcome and to resolve challenges encapsulates cost effectiveness, time saving and value added services. This ultimately translates into financially and technically benefitting the client and the project as a whole.
+
+                We are a forward thinking and a success driven company adapting to the technological advances in the field of construction; for both planning and execution. With each successfully executed project, we plan to move two steps forward in the direction to maintain our reputation as one of the leading Construction Contractors & Service Providers in Pakistan.
+            </strong>
+        </section>
+
+    </main>
+    <footer>
+        <a href="#" alt="">Apply</a>
+        <a href="#" alt="">Download</a>
+        <a href="#" alt="">Contact</a>
+        <a href="#" alt="">Map</a>
+        <a href="#" alt="">Developed by Moeez</a>
+    </footer>
+</body>
+</html>
